@@ -1,6 +1,6 @@
 <h1>Identificação de phishing</h1>
 
-!Phishing[364814993-a4e4050b-f928-48d9-b414-0954f48db78a](https://github.com/user-attachments/assets/a1fac849-aac0-4b5f-9dfa-f1c30dfb0967)
+![phishing](https://github.com/user-attachments/assets/a1fac849-aac0-4b5f-9dfa-f1c30dfb0967)
 
 
 <h2>Pontos que o classificam como phishing:</h2> 
