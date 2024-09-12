@@ -18,6 +18,6 @@ VERIFIQUE O REMETENTE: Confirme se o endereço de e-mail do remetente é legíti
 
 REPORTE O E-MAIL: Encaminhe o e-mail suspeito para alguma equipe de segurança para que se possa investigar e tomar as medidas necessárias. 
 
-Eduque-se sobre phishing: Saiba mais sobre como identificar e evitar ataques de phishing. Visite o site <a href="https://www.cloudflare.com/pt-br/learning/email-security/how-to-prevent-phishing/"> para mais informações.
+Eduque-se sobre phishing: Saiba mais sobre como identificar e evitar ataques de phishing. Visite o site <a href="https://www.cloudflare.com/pt-br/learning/email-security/how-to-prevent-phishing/">Entenda o que é um phishing</a> para mais informações.
 
 Aluno: Luis Eduardo 2º DS
